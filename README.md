@@ -3,6 +3,8 @@
 CoachT is an AI assistant for tennis players. It is built with an Intel Curie chip that is placed on a tennis racket.
 The chip has built in acceleration sensor and neural net implemented in hardware in addition to a normal Arduino board.
 
+![curieNano](DFR0453_Curie_Nano_EN.png)
+
 The machine learning is carried out in the following steps:
 
 1. Acceleration reading is collected by sampling when professional players swing shots and labelled into six groups.
