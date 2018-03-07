@@ -11,7 +11,7 @@ The machine learning is carried out in the following steps:
    outputed into one of the six groups.
 
 ## Code organization
-
+* Data preprocessing is done [here](https://github.com/Eskender-B/coachT-Preprocess)
 * The code is written as an Arduino library in [CoachT/](CoachT)
 * The final zipped file is located at [CoachT.zip](CoachT.zip)
 * The training data and an already trained model is found at [sdcard/](sdcard/) to be loaded
